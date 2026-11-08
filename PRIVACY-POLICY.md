@@ -26,10 +26,8 @@ Because Brock does not collect any user data or personal information, we do not 
 4. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect functional updates or regulatory requirements. Any changes will be posted directly on this page with an updated effective date.
-
+            
 5. Contact Us
-
 If you have any questions or concerns regarding this Privacy Policy or Brock's data practices, you can reach out via GitHub or through our developer store listing page.
 
-8. Contact Us
-If you have any questions or concerns regarding this Privacy Policy or Brock's data practices, you can reach out via GitHub or through our developer store listing page.
+page.    
